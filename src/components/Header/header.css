@@ -1,0 +1,15 @@
+.logo{
+    margin-top: 20px;
+}
+.logo img {
+    height: 80px;
+}
+.navbar{
+    margin-top: 20px;
+}
+.nav-link:hover{
+    background-color: gray;
+}
+.input-search{
+    width: 300px;
+}
